@@ -1,0 +1,115 @@
+#banner{}
+.banner_flex{
+    display: flex;
+    justify-content: space-between;
+}
+.left_banner_h1{
+    color: #313131;
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: -2.56px;
+    width: 681px;
+    margin-top: 118px;
+}
+.left_banner_h1 span{
+color: #18A7B9;
+}
+.left_banner_pera{
+    color: #6B6B6B;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+width: 541px;
+margin-top: 40px;
+}
+.left_banner_btn_1{
+    border: 1.5px solid transparent;
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 117.647% */
+letter-spacing: -0.5px;
+    width: 214px;
+height: 64px;
+flex-shrink: 0;
+    border-radius: 40px 5px;
+background: #18A7B9;
+margin-top: 40px;
+box-shadow: 0px 1.85185px 3.14815px 0px rgba(24, 167, 185, 0.02), 0px 8.14815px 6.51852px 0px rgba(24, 167, 185, 0.04), 0px 20px 13px 0px rgba(24, 167, 185, 0.05), 0px 38.51852px 25.48148px 0px rgba(24, 167, 185, 0.06), 0px 64.81481px 46.85185px 0px rgba(24, 167, 185, 0.08);
+}
+.left_banner_btn_1:hover{
+background-color:#FFF ;
+border: 1.5px solid #18A7B9;
+transition: .4s;
+color: #18A7B9;
+}
+.left_banner_btn_2{
+background-color: #FFF;
+color: #18A7B9;
+text-align: center;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 117.647% */
+letter-spacing: -0.5px;
+width: 214px;
+height: 64px;
+flex-shrink: 0;
+border: 1.5px solid #18A7B9;
+border-radius: 40px 5px;
+margin-left: 15px;
+}
+.left_banner_btn_2:hover{
+    color: #FFF;
+    background-color: #18A7B9;
+    transition: .4s;
+    border: 1.5px solid transparent;
+
+}
+.count_number_flex{
+    display: flex;
+    justify-content: space-between;
+    width: 562px;
+}
+.number{
+    color: #313131;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 40px */
+margin-top: 90px;
+}
+.number_pera{
+    color: #6B6B6B;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 26px */
+margin-top: 15px;
+}
+.banner_image {
+    height: 933px;
+    width: 744px;
+    position: absolute;
+    top: 11px;
+    left: 885px;
+   z-index: 1;
+}
+.logos_banner{
+    margin-top: 147px;
+}
+.victor{
+    position: absolute;
+    bottom: 0;
+}

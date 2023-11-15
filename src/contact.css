@@ -1,0 +1,58 @@
+#contact{
+    margin-top: 140px;
+    margin-bottom: 70px;
+}
+
+.contact_flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 152px;
+}
+.field{
+    width: 490px;
+    height: 64px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+background: #F9F9F9;
+color: #6B6B6B;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+padding: 0.5rem 1rem;
+margin-bottom: 20px;
+
+}
+.area{
+    height: 200px;
+}
+.send_btn{
+    color: #FAFAFA;
+text-align: center;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 117.647% */
+letter-spacing: -0.5px;
+width: 237px;
+height: 66px;
+flex-shrink: 0;
+background-color: #18A7B9;
+border: 1.5px solid transparent;
+border-radius: 40px 5px;
+background: #18A7B9;
+margin-top: 30px;
+box-shadow: 0px 1.85185px 3.14815px 0px rgba(24, 167, 185, 0.02), 0px 8.14815px 6.51852px 0px rgba(24, 167, 185, 0.04), 0px 20px 13px 0px rgba(24, 167, 185, 0.05), 0px 38.51852px 25.48148px 0px rgba(24, 167, 185, 0.06), 0px 64.81481px 46.85185px 0px rgba(24, 167, 185, 0.08);
+}
+.send_btn:hover{
+    background-color: #F9F9F9;
+    color: #18A7B9;
+    transition: .4s;
+    border: 1.5px solid #18A7B9;
+    border-radius: 40px 5px;
+}
+.right_map{
+    margin-left: 30px;
+}

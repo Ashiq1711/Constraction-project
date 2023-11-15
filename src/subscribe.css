@@ -1,0 +1,56 @@
+.sub_h1{
+    color: #313131;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 103.704% */
+    text-align:center ;
+    margin-bottom: 30px;
+    width: 460px;
+    margin: 0 auto;
+}
+.sub_pera{
+    color: #6B6B6B;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 140% */
+    width: 510px;
+  height: 56px;
+    text-align:center ;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+.sub_btn{
+    color: #FAFAFA;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    width: 220px;
+height: 56px;
+flex-shrink: 0;
+border:1.5px transparent;
+text-align: center;
+border-radius: 40px 5px;
+background: #18A7B9;
+box-shadow: 0px 1.85185px 3.14815px 0px rgba(24, 167, 185, 0.02), 0px 8.14815px 6.51852px 0px rgba(24, 167, 185, 0.04), 0px 20px 13px 0px rgba(24, 167, 185, 0.05), 0px 38.51852px 25.48148px 0px rgba(24, 167, 185, 0.06), 0px 64.81481px 46.85185px 0px rgba(24, 167, 185, 0.08);
+}
+.sub_btn:hover{
+    background-color: #FAFAFA;
+    border: 1.5px solid #18A7B9;
+    transition: .3s;
+    color: #18A7B9;
+}
+.sub_arrow{
+margin-left: 12px;
+
+}
+.sub_title{
+    text-align: center;
+    margin-bottom: 156px;
+}

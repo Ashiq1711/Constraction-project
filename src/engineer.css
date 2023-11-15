@@ -1,0 +1,136 @@
+#engineer{
+    margin-top: 134px;
+}
+.title{
+ 
+   
+}
+.title_h1{
+    color: #313131;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 103.704% */
+    margin: 0 auto;
+    text-align: center;
+}
+.title_pera{
+    color: #6B6B6B;
+    margin: 0 auto;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 140% */
+width: 672px;
+text-align: center;
+margin-top: 30px;
+}
+.main_box_flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.engineer_box{
+  padding: 20px;
+   border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 20px 50px 0px rgba(198, 217, 225, 0.30);
+width: 332px;
+height: 405px;
+flex-shrink: 0;
+}
+.engineer_box_title_flex{
+    display: flex;
+    justify-content: space-between;
+}
+.yello_star{
+color: #F0BB00;
+}
+.engineer_img {
+    text-align: center;
+    margin-top: 30px;
+}
+.engineer_name{
+    color: #313131;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 22px;
+}
+.engineer_degignation{
+    color: #6B6B6B;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; /* 12px */
+    letter-spacing: 1px;
+    margin-top: 7px;
+}
+.engineer_contract{
+    color: #6B6B6B;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 47px;
+}
+.engineer_mail{
+    color: #18A7B9;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 7px;
+}
+.arrow_btn{
+    text-align: center;
+    width: 110px;
+    height: 50px;
+    background-color: #f9f9f9;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 140px;
+}
+.arrow_btn_one{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    background-color: #daebeb;
+    margin-right: 10px;
+
+}
+.arrow_btn_one:hover{
+    background-color: #18A7B9;
+    transition: .3s;
+}
+.one{
+    height: 30px;
+}
+.arrow_btn_two{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #d4e6e9;
+    border: none;
+}
+.arrow_btn_two:hover{
+    background-color: #18A7B9;
+    transition: .3s;
+}
+.two{
+    
+    height: 30px;
+}

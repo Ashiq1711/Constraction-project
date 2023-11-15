@@ -1,0 +1,59 @@
+#message{
+    position: relative;
+}
+.bg_image{
+        width: 1903px;
+        height: 900px;
+}
+.msg_bg{
+text-align: center;
+
+}
+.msg_text{
+    position: absolute;
+
+position: absolute;
+        top: 180px;
+        left: 495px;
+}
+.msg_h1{
+    color: #FAFAFA;
+font-family: Poppins;
+font-size: 54px;
+font-style: normal;
+font-weight: 500;
+line-height: 76px; /* 140.741% */
+text-align: center;
+}
+.msg_pera{
+margin-top: 55px;
+color: #FAFAFA;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+width: 857px;
+}
+.msg_pera_two{
+margin-top: 55px;
+color: #FAFAFA;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+width: 857px;
+}
+.comma_img_1{
+        position: absolute;
+        top: 248px;
+        left: 410px;
+
+}
+.comma_img_2{
+        position: absolute;
+        right: 490px;
+        bottom: 205px;
+
+}
